@@ -10,6 +10,7 @@ I'm a 🚀 Node.js backend developer who loves working with 🌟 JavaScript and 
 ## Get in touch
 - [Twitter](https://twitter.com/iWildFrost) 
 - [LinkedIn](https://www.linkedin.com/in/ashik-v/)
+- Discord -> @wildfrost
 <!--
 **WildFr0sT/WildFr0sT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
