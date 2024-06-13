@@ -11,12 +11,10 @@ I'm a 🚀 Node.js backend developer who loves working with 🌟 JavaScript and 
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
   <img width="12" />
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="express logo"  />
+   <img src="https://avatars.githubusercontent.com/u/5658226?s=48&v=4" height="40" alt="express logo"  />
   <img width="12" />
   <img src="https://seeklogo.com/images/M/mongodb-logo-D13D67C930-seeklogo.com.png" height="40" alt="mongodb logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://github.com/Ramzi-Abidi/Ramzi-Abidi/assets/69228547/67cf010f-02f1-4dba-9874-60d39c008823" height="40" alt="nestjs logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
   <img width="12" />
