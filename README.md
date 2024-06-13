@@ -21,8 +21,8 @@ I'm a 🚀 Node.js backend developer who loves working with 🌟 JavaScript and 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
-
 </div>
+
 ## Get in touch
 - [Twitter](https://twitter.com/iWildFrost) 
 - [LinkedIn](https://www.linkedin.com/in/ashik-v/)
