@@ -18,7 +18,7 @@ I'm a 🚀 Node.js backend developer who loves working with 🌟 JavaScript and 
   <img src="https://streak-stats.demolab.com?user=WildFr0sT&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div> <br /> <br />
 
-[![Top Langs](https://github-readme-stats-beryl-zeta-82.vercel.app/api/top-langs/?username=assebc)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats-beryl-zeta-82.vercel.app/api/top-langs/?username=wildfr0st)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
