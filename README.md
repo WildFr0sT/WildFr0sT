@@ -13,7 +13,10 @@ I'm a 🚀 Node.js backend developer who loves working with 🌟 JavaScript and 
 - Discord -> @wildfrost
 
 
-<img src="https://github-readme-stats-beryl-zeta-82.vercel.app/api?username=WildFr0sT">
+## 📊 Github stats:
+<div>
+  <img src="https://streak-stats.demolab.com?user=WildFr0sT&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+</div> <br /> <br />
 
 
 
