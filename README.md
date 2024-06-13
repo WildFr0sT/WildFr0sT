@@ -13,7 +13,7 @@ I'm a 🚀 Node.js backend developer who loves working with 🌟 JavaScript and 
 - Discord -> @wildfrost
 
 
-[GitHub stats](https://github-readme-stats-beryl-zeta-82.vercel.app/api?username=WildFr0sT)
+<img src="https://github-readme-stats-beryl-zeta-82.vercel.app/api?username=WildFr0sT">
 
 
 
