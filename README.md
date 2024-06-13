@@ -13,7 +13,7 @@ I'm a 🚀 Node.js backend developer who loves working with 🌟 JavaScript and 
 - Discord -> @wildfrost
 
 
-[![Anurag's GitHub stats](https:/github-readme-stats-chi-three-17.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[GitHub stats](https://github-readme-stats-beryl-zeta-82.vercel.app/api?username=WildFr0sT)
 
 
 
