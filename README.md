@@ -2,11 +2,27 @@
 
 I'm a 🚀 Node.js backend developer who loves working with 🌟 JavaScript and TypeScript. I specialize in building scalable, robust APIs and web applications that leverage the power of 🍃 MongoDB for data storage and retrieval. When I'm not 💻 coding, I'm probably 🎮 gaming - I love playing games in my free time and exploring new worlds and experiences.
 
-## Skills
-- **Languages**: JavaScript, TypeScript
-- **Backend frameworks**: Node.js, Express.js
-- **Databases**: MongoDB, MySQL
-- **Other tools and technologies**: Git, VSCode, Postman, AWS
+## 🛠 Language and tools</h3>
+
+<div align="left">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
+  <img width="12" />
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="express logo"  />
+  <img width="12" />
+  <img src="https://seeklogo.com/images/M/mongodb-logo-D13D67C930-seeklogo.com.png" height="40" alt="mongodb logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://github.com/Ramzi-Abidi/Ramzi-Abidi/assets/69228547/67cf010f-02f1-4dba-9874-60d39c008823" height="40" alt="nestjs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
+
+</div>
 ## Get in touch
 - [Twitter](https://twitter.com/iWildFrost) 
 - [LinkedIn](https://www.linkedin.com/in/ashik-v/)
