@@ -33,6 +33,9 @@ I'm a 🚀 Node.js backend developer who loves working with 🌟 JavaScript and 
 </div> <br /> <br />
 
 
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=21yhp7s4osolecqwrzfnqfyla&cover_image=true&theme=natemoo-re&show_offline=false&background_color=050505&interchange=false&bar_color=39db33&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=21yhp7s4osolecqwrzfnqfyla&redirect=true)
+
+
 
 
 
