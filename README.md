@@ -33,7 +33,7 @@ I'm a 🚀 Node.js backend developer who loves working with 🌟 JavaScript and 
 </div> <br /> <br />
 
 
-[![spotify-github-profile](`https://spotify-github-profile.kittinanx.com/api/view?uid=21yhp7s4osolecqwrzfnqfyla&cover_image=true&theme=natemoo-re&show_offline=false&background_color=000000&interchange=true&bar_color=0dff05&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=21yhp7s4osolecqwrzfnqfyla&redirect=true)
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=21yhp7s4osolecqwrzfnqfyla&cover_image=true&theme=natemoo-re&show_offline=false&background_color=000000&interchange=true&bar_color=0dff05&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=21yhp7s4osolecqwrzfnqfyla&redirect=true)
 
 
 
