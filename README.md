@@ -1,44 +1,38 @@
-# <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=500&color=60F7F0&random=false&width=435&lines=Hi+There++!;%E3%81%93%E3%82%93%E3%81%AB%E3%81%A1%E3%81%AF+!" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=500&color=60F7F0&width=435&lines=Hello%2C+World+%F0%9F%8C%8E;こんにちは+%F0%9F%91%8B" alt="Typing SVG" /></a>
 
-I'm a 🚀 Node.js backend developer who loves working with 🌟 JavaScript and TypeScript. I specialize in building scalable, robust APIs and web applications that leverage the power of 🍃 MongoDB for data storage and retrieval. When I'm not 💻 coding, I'm probably 🎮 gaming - I love playing games in my free time and exploring new worlds and experiences.
+### 🚀 About Me:
+I'm a passionate **Node.js Backend Developer** who thrives on building scalable, robust APIs and web applications using **JavaScript** and **TypeScript**. I enjoy working with technologies like **MongoDB** for data storage and retrieval. In my spare time, you'll find me exploring virtual worlds in various **games**. 🎮
 
-## 🛠 Language and tools</h3>
-
+### 🛠️ Languages and Tools:
 <div align="left">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="TypeScript" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="Node.js" />
   <img width="12" />
-   <img src="https://avatars.githubusercontent.com/u/5658226?s=48&v=4" height="40" alt="express logo"  />
+  <img src="https://avatars.githubusercontent.com/u/5658226?s=48&v=4" height="40" alt="Express.js" />
   <img width="12" />
-  <img src="https://seeklogo.com/images/M/mongodb-logo-D13D67C930-seeklogo.com.png" height="40" alt="mongodb logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img src="https://seeklogo.com/images/M/mongodb-logo-D13D67C930-seeklogo.com.png" height="40" alt="MongoDB" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="C" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java" />
 </div>
 
-## Get in touch
-- [Twitter](https://twitter.com/iWildFrost) 
-- [LinkedIn](https://www.linkedin.com/in/ashik-v/)
-- Discord -> @wildfrost
-
-
-## 📊 Github stats:
+### 📊 GitHub Stats:
 <div>
-  <img src="https://streak-stats.demolab.com?user=WildFr0sT&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-</div> <br /> <br />
+  <img src="https://streak-stats.demolab.com?user=WildFr0sT&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph" />
+  <br><br>
+ 
+</div>
 
-
+### 🎧 Spotify Playing:
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=21yhp7s4osolecqwrzfnqfyla&cover_image=true&theme=natemoo-re&show_offline=false&background_color=000000&interchange=true&bar_color=0dff05&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=21yhp7s4osolecqwrzfnqfyla&redirect=true)
 
-
-
-
-
-
-
-
+### 📫 Get in Touch:
+- **Twitter**: [@iWildFrost](https://twitter.com/iWildFrost)
+- **LinkedIn**: [Ashik V](https://www.linkedin.com/in/ashik-v/)
+- **Discord**: @wildfrost
