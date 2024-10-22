@@ -1,7 +1,10 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=500&color=60F7F0&width=435&lines=Hello%2C+World+%F0%9F%8C%8E;こんにちは+%F0%9F%91%8B" alt="Typing SVG" /></a>
 
-### 🚀 About Me:
-I'm a passionate **Node.js Backend Developer** who thrives on building scalable, robust APIs and web applications using **JavaScript** and **TypeScript**. I enjoy working with technologies like **MongoDB** for data storage and retrieval. In my spare time, you'll find me exploring virtual worlds in various **games**. 🎮
+### 🦇 About Me:
+- **Node.js developer**, working in the shadows with **JavaScript**, **TypeScript**, and **MongoDB**.
+- I build **scalable APIs** and **web apps**—efficient, no questions asked.
+- When I’m not behind the code, I’m mastering the art of **gaming**. 🎮
+
 
 ### 🛠️ Languages and Tools:
 <div align="left">
