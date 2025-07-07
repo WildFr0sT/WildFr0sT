@@ -1,4 +1,4 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=500&color=60F7F0&width=435&lines=Hello%2C+World+%F0%9F%8C%8E;こんにちは+%F0%9F%91%8B" alt="Typing SVG" /></a>
+<!--<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=500&color=60F7F0&width=435&lines=Hello%2C+World+%F0%9F%8C%8E;こんにちは+%F0%9F%91%8B" alt="Typing SVG" /></a>
 
 ### 🦇 About Me:
 - **Node.js developer**, working  with **JavaScript**, **TypeScript**, and **MongoDB**.
